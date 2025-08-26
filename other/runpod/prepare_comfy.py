@@ -85,7 +85,7 @@ def main():
         ("https://github.com/kijai/ComfyUI-KJNodes.git",                    "ComfyUI-KJNodes"),
         ("https://github.com/city96/ComfyUI-GGUF.git",                      "ComfyUI-GGUF"),
         ("https://github.com/azoksky/RES4LYF.git",                          "RES4LYF"),
-        ("https://github.com/azoksky/az-nodes.git",                         "az-nodes"),
+        ("https://github.com/azoksky/azok_nodes.git",                       "azok_nodes"),
         ("https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git",     "ComfyUI-VideoHelperSuite"),
         ("https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git",   "ComfyUI-Frame-Interpolation"),
         ("https://github.com/welltop-cn/ComfyUI-TeaCache.git",              "ComfyUI-TeaCache"),
@@ -112,5 +112,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
